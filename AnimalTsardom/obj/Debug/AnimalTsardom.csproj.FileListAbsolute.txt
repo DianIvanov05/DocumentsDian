@@ -1,0 +1,8 @@
+C:\Users\STUDENTS-STEM-10\Desktop\Dian Ivanov 11d\AnimalTsardom\bin\Debug\AnimalTsardom.exe.config
+C:\Users\STUDENTS-STEM-10\Desktop\Dian Ivanov 11d\AnimalTsardom\bin\Debug\AnimalTsardom.exe
+C:\Users\STUDENTS-STEM-10\Desktop\Dian Ivanov 11d\AnimalTsardom\bin\Debug\AnimalTsardom.pdb
+C:\Users\STUDENTS-STEM-10\Desktop\Dian Ivanov 11d\AnimalTsardom\obj\Debug\AnimalTsardom.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-STEM-10\Desktop\Dian Ivanov 11d\AnimalTsardom\obj\Debug\AnimalTsardom.csproj.SuggestedBindingRedirects.cache
+C:\Users\STUDENTS-STEM-10\Desktop\Dian Ivanov 11d\AnimalTsardom\obj\Debug\AnimalTsardom.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-STEM-10\Desktop\Dian Ivanov 11d\AnimalTsardom\obj\Debug\AnimalTsardom.exe
+C:\Users\STUDENTS-STEM-10\Desktop\Dian Ivanov 11d\AnimalTsardom\obj\Debug\AnimalTsardom.pdb

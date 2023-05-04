@@ -1,0 +1,14 @@
+C:\Users\STUDENTS-STEM-10\Desktop\Dian Ivanov 11d\BecomeMilionareQuest1\bin\Debug\BecomeMilionareQuest1.exe.config
+C:\Users\STUDENTS-STEM-10\Desktop\Dian Ivanov 11d\BecomeMilionareQuest1\bin\Debug\BecomeMilionareQuest1.exe
+C:\Users\STUDENTS-STEM-10\Desktop\Dian Ivanov 11d\BecomeMilionareQuest1\bin\Debug\BecomeMilionareQuest1.pdb
+C:\Users\STUDENTS-STEM-10\Desktop\Dian Ivanov 11d\BecomeMilionareQuest1\obj\Debug\BecomeMilionareQuest1.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-STEM-10\Desktop\Dian Ivanov 11d\BecomeMilionareQuest1\obj\Debug\BecomeMilionareQuest1.csproj.SuggestedBindingRedirects.cache
+C:\Users\STUDENTS-STEM-10\Desktop\Dian Ivanov 11d\BecomeMilionareQuest1\obj\Debug\BecomeMilionareQuest1.Form1.resources
+C:\Users\STUDENTS-STEM-10\Desktop\Dian Ivanov 11d\BecomeMilionareQuest1\obj\Debug\BecomeMilionareQuest1.Properties.Resources.resources
+C:\Users\STUDENTS-STEM-10\Desktop\Dian Ivanov 11d\BecomeMilionareQuest1\obj\Debug\BecomeMilionareQuest1.csproj.GenerateResource.cache
+C:\Users\STUDENTS-STEM-10\Desktop\Dian Ivanov 11d\BecomeMilionareQuest1\obj\Debug\BecomeMilionareQuest1.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-STEM-10\Desktop\Dian Ivanov 11d\BecomeMilionareQuest1\obj\Debug\BecomeMilionareQuest1.exe
+C:\Users\STUDENTS-STEM-10\Desktop\Dian Ivanov 11d\BecomeMilionareQuest1\obj\Debug\BecomeMilionareQuest1.pdb
+C:\Users\STUDENTS-STEM-10\Desktop\Dian Ivanov 11d\BecomeMilionareQuest1\bin\Debug\StaniBogat11D.mdf
+C:\Users\STUDENTS-STEM-10\Desktop\Dian Ivanov 11d\BecomeMilionareQuest1\bin\Debug\StaniBogat11D_log.ldf
+C:\Users\STUDENTS-STEM-10\Desktop\Dian Ivanov 11d\BecomeMilionareQuest1\obj\Debug\BecomeMilionareQuest1.Form2.resources
